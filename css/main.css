@@ -1,0 +1,49 @@
+body {
+    /*background-color: #F5F6F7;*/
+
+    background: linear-gradient(-45deg, #326ba8, #007bff, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+    height: 100vh;
+
+    font-family: 'Bahnschrift';
+  }
+
+  @keyframes gradient {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
+
+.header
+{
+  top: 5%;
+  width: auto;
+  height: 150px;
+  display: table;
+  position: relative;
+  overflow: hidden;
+  text-align:center;
+  margin:0 auto;
+}
+
+.logo
+{
+  width: 128px;
+  height: 128px;
+  margin: auto;
+}
+
+.headerText
+{
+  font-weight: bold;
+  font-size: 35px;
+  color: #ffffff;
+}
