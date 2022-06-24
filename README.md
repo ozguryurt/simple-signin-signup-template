@@ -1,6 +1,5 @@
 # simple-signin-signup-template
-Simple sign in &amp; sign up template. (HTML, CSS)
-Animated background.
+Simple sign in &amp; sign up template with animated background. (HTML, CSS)
 
 ### **SIGN IN PAGE**
 ![Sign Up Page](https://i.ibb.co/tJw7h5m/Screenshot-1.png)
