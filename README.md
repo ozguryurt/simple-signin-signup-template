@@ -6,4 +6,4 @@ SIGN IN PAGE
 
 SIGN UP PAGE
 ![Sign Up Page](https://i.ibb.co/4d02kXJ/Screenshot-2.png)
-<img src="https://i.ibb.co/4d02kXJ/Screenshot-2.png" width="1280px" height="720px">
+<img src="https://i.ibb.co/4d02kXJ/Screenshot-2.png" width="900px" height="450px">
