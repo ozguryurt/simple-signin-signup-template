@@ -2,7 +2,7 @@
 Simple sign in &amp; sign up template with animated background. (HTML, CSS)
 
 ### **SIGN IN PAGE**
-![Sign Up Page](https://i.ibb.co/tJw7h5m/Screenshot-1.png)
+![](https://i.hizliresim.com/j09l7w8.jpeg)
 
 ### **SIGN UP PAGE**
-![Sign In Page](https://i.ibb.co/4d02kXJ/Screenshot-2.png)
+![](https://i.hizliresim.com/hpw07l4.jpeg)
